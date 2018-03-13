@@ -1,2 +1,2 @@
 # mc920
-Repositório das atividades realizadas durante a disciplina MC920 - Introdução ao Processamento de Imagem Digital (1s2018)
+Repository of projects done during the course of Introduction to Digital Image Processing (MC920) offered by the Institute of Computing in University of Campinas in the first semester of 2018
