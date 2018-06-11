@@ -1,0 +1,15 @@
+Our last argument is how we want to approximate the
+contour. We use cv2.Cl-lAIN_APPROX_SIMPLE to compress
+horizontal, vertical, and diagonal segments into their end-
+
+points only. This saves both computation and memory. If
+ts along the contour, without com—
+
+we wanted all the poin
+pression, we can pass in cv2. CHAINJPPRUXJIUNE; however,
+
+be very sparing when using this function. Retrieving all
+
+points along a contour is often unnecessary and is wasteful
+
+of resources.
